@@ -8,11 +8,11 @@ body {
 .cool {
 	background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/galaxy-wallpapers-20.jpg");
     color: white;
-}
+ }
 .hello{
 	background-image: url("http://9grandclothing.com/blog/wp-content/uploads/2009/09/shepard-fairey-michael-jordan-poster-series.jpg")
 }
-div{
+.borders{
 	border-style: solid;
 	border-width: 5px;
 	border-color:black;
@@ -34,6 +34,7 @@ div{
 	border-color: black;
     font-family: 'Arbutus', cursive;
     font-size: 15px;
+    color: black;
 }
 .container3{
 	border-color: black;
@@ -54,4 +55,26 @@ div{
 }
 .hello2{
 	background-image: url("http://www.photl.com/images/photos/2008/11/19/2207/wm82953tt.jpg")
+}
+#carousel-example-generic{
+	width: 600px;
+	height: 400px;
+	position: center;
+	border-color: black;
+	margin-left: auto;
+	margin-right: auto;
+}
+.button {
+  padding:5px;
+  background-color: gray;
+  border: 1px solid #666;
+  color: black;
+  text-decoration:none;
+}
+.carousel-inner {
+
+}
+.item{
+	align: center;
+	position: center;
 }
