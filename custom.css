@@ -4,13 +4,15 @@ body {
 }
 .about-me{
 	text-align: center;
+	color: white;
 }
 .cool {
 	background-image: url("http://cdn.wonderfulengineering.com/wp-content/uploads/2014/06/galaxy-wallpapers-20.jpg");
     color: white;
  }
 .hello{
-	background-image: url("http://9grandclothing.com/blog/wp-content/uploads/2009/09/shepard-fairey-michael-jordan-poster-series.jpg")
+	background-image: url("http://cdn.gifbay.com/2013/06/michael_jordan_had_incredible_ball_fakes-59730.gif");
+	color: white;
 }
 .borders{
 	border-style: solid;
@@ -28,18 +30,22 @@ body {
 	border-color: yellow;
 }
 .about-me{
-	    background-image: url("http://imgc.allpostersimages.com/images/P-473-488-90/26/2678/OLAUD00Z/posters/mitch-diamond-close-up-of-pepperoni-pizza.jpg");
+	    background-image: url("http://media.giphy.com/media/wQSadQV9vXeiQ/giphy.gif");
+}
+.about-me3{
+	background-image: url("http://www.picgifs.com/graphics/a/aliens/graphics-aliens-392955.gif");
 }
 .container2{
 	border-color: black;
     font-family: 'Arbutus', cursive;
     font-size: 15px;
-    color: black;
+    color: white;
 }
 .container3{
 	border-color: black;
     font-family: 'Droid Serif', serif;
     font-size: 15px;
+    color: black;
 }
 .about-me2{
 	    background-image: url("http://www.zastavki.com/pictures/originals/2014/World___India_Ship_on_sunset_background_in_Goa_066001_.jpg");
